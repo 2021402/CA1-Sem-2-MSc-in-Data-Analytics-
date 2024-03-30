@@ -45,6 +45,46 @@ In addition, the program would be analyzing the consequences of managing large s
 
 •	The research will be focusing on the practical/tangible effects of the application of predictive maintenance systems (based on LTSM) in the industrial sector. Such a system can be very complicated and difficult to implement, it will require to be deployed and synchronized with current maintenance, and the practice and procedures
 
+# II.	LITERATURE REVIEW
 
+## A.	Introduction to Predictive Maintenance
+
+Predictive maintenance in its essence is a proactive maintenance approach, which forecasts and prevent the breakdown of equipment before failure occurs, which in turn reduces the downtime, decreases the maintenance budget, and increases the reliability of assets. The predictive maintenance method is quite different from the old-school timetable or reactive maintenance as the latter are only reactive and fix the equipment failures. The predictive maintenance uses modern data analytics techniques along with sensor technologies which can predict the equipment health and maintenance requirements using real-time or historical data.
+
+Predictive maintenance has gained a lot of interest among many industries like manufacturing, energy, transport, and healthcare since there is an increase in sensor data nowadays and the mathematical algorithms and models for machine learning are advancing as well as the urge for achieving more efficient operations and asset utilization [2]. As the organization moves from time-based reactive maintenance to predictive maintenance, it will be able to increase the equipment performance, improve safety standards and reduce the downtime.
+
+Predictive maintenance is founded on models and algorithms, which are used to predict machine failures by processing sensor data. These models could be used to spot abnormalities, predict trends, which may indicate impending failures, and the maintenance work recommendations [4]. The LSTM networks have been found to perform well as an efficient tool for predicting multi-modal and complex time-series data [5].
+
+The major features of predictive maintenance can be summarized as the following:
+
+**•	Reduced Downtime:** Predictive maintenance will be done by detecting and fixing the potential failures and interruptions before they can happen, so that the occurrence of failures and downtime, which may lead to slowing down the operations, will be reduced, thus ensuring reliable operations and increased productivity [6].
+
+**•	Cost Savings:** Predictive maintenance creates an avenue for firms to optimize maintenance plans, reduce the unexpected contingency costs and prolong the useful life of assets.
+
+**•	Improved Asset dependability:** Predictive maintenance, which uses preventive measures like equipment monitoring and repairs at the right time, is the most effective way to extend the life and reliability of machinery while avoiding the risk of catastrophic failure.
+
+**•	Enhanced Safety:** Preventive maintenance helps identify the safety problems that may be due to equipment incapacity and hence reduces the risks of the work [8].
+
+
+## B.	Overview of Long Short-Term Memory (LSTM) Networks
+
+LSTM is an RNN-based model that can establish the relationship between things such as images, words, and input sequences over the long-term. Unlike other RNNs which generate the vanishing gradient problem and have severe memory loss on long time sequences, LSTM networks employ the memory cells and gates and process information efficiently over long time periods.
+
+The LSTM network consists of the cell state, forget gate, input gate, and output gate, which are the main parts of it. The status of the state is the memory of the LSTM network, it enables to store information periodically. The forget gate allows the transfer of the optimum information from the last cell state to the present one, so it determines what to keep up and what to be forgotten. It is an input gate that acts as a filter, which is responsible for picking the data from the input and selecting the values to be added to the current cell state. Finally, the output gate selects the output of the LSTM cell by using the current state of the cell as well as the input data.
+
+The use of these features would certainly ensure correctness of the LSTM model in long-term relationships detection and in catching of complicated sequenced patterns in data. Undoubtedly, they are very handy for such models that are widely used by the various sequence data applications, i.e. natural language processing, time series forecasting and predictive maintenance.
+
+In the case of predictive maintenance, the LSTM (Long Short-Term Memory) networks could be helpful; they monitor the sensor data gathered from industrial equipment to forecast the routes to defects or failure that require maintenance. LSTMs can forecast the behavior of equipment and perform maintenance at optimal times. The performance of assets can be improved by using sensors reading and equipment states through training.
+
+
+## C.	Previous Studies on Predictive Maintenance with LSTM Networks
+
+As for the past research, LSTM networks are often employed in this case to provide the predictive maintenance by analyzing the historical sensor data and forecasting of the equipment breakdowns. The findings of the study have, therefore, given significant information with regards to the applicability as well as the effectiveness of LSTM models used for predictive maintenance in various industrial settings.
+
+The case, work used LSTM networks to forecast equipment problems in the production plant, taking sensor data from the production equipment as an input. This study showed the current LSTM models can mimic the temporal interlinking among different parameters of equipment data and also predict the equipment failure well before that. The groups of scientists involved in the study used LSTM networks and saw many corrective actions and equipment uptime increase, thus leading to less cost and high operational reliability.
+
+Therefore, the case study demonstrates the use of LSTM networks for power plants equipment repairing and maintenance with the emphasis on control, monitoring, and repairing equipment. According to the research that LSTM-based models for predictive maintenance could be able to detect abnormalities and make equipment breakdowns predictions with high accuracy. This allowed us to schedule our interventions or maintenance in advance and cut down the unplanned downtime. The research showed that LSTM networks were able to increase the performance of the plant assets maintenance and improve the whole production sector in the energy industry.
+
+Moreover, a research work was carried out and an LSTM network was used for the prediction of both railroad infrastructure maintenance and evaluation of a railway transport. The scientists used historic sensor data from the rails and signaling equipment to analyze the data. In accordance with the results, they designed LSTM-models that can forecast the next state of railway track faults and equipment failures. The findings were demonstrated the LSTM networks as a contemporary technology to update railroad maintenance, preventing train operations risks, and guaranteeing passenger safety.
 
 
