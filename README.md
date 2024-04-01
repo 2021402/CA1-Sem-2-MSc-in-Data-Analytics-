@@ -144,6 +144,29 @@ The sensor data that are utilized for this predictive maintenance project is the
 
 **•	Humidity:** The moisture levels, which are expressed in percentage of humidity, are a cause of two problems: corrosion and integrity of insulation, as well as the electrical performance of the equipment that are delicate with electronic parts.
 
+## C.	Data Cleaning and Preprocessing Techniques
+
+Data Cleansing and Preprocessing are considered the critical steps for making sensor data ready for the predictive maintenance of Long Short-Term Memory (LSTM) networks. These strategies help to ensure that data is high-quality, homogenous, and prepared for training purposes of the predictive maintenance model.
+
+**TABLE I: Data cleaning and processing techniques**
+
+Handling Missing Values	Detect and restore missing values using the mean, median, or interpolation.
+
+Outlier Detection and Removal	Outliers can be detected and handled using clipping, or other strong statistical techniques.
+
+Normalization or Standardization	Scale features to a common range or standardize for model stability.
+
+
+## D.	Data Exploration and Visualization
+
+Data exploration and visualization are critical in understanding the features and trends found in sensor data used for predictive maintenance.
+
+**TABLE II: Data exploration and visualization techniques**
+
+Univariate Analysis	Use histograms, box plots, and summary statistics to understand the distribution and variability of sensor variables.
+
+Bivariate Analysis	Explore relationships between sensor variables with scatter plots and heatmaps.
+
 
 
 
