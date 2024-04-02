@@ -167,6 +167,51 @@ Univariate Analysis	Use histograms, box plots, and summary statistics to underst
 
 Bivariate Analysis	Explore relationships between sensor variables with scatter plots and heatmaps.
 
+# IV.	Methodology
+
+## A.	Dataset Selection
+
+Title: Gas-Turbine CO and NOx Emission Data
+
+https://journals.tubitak.gov.tr/elektrik/issues/elk-19-27-6/elk-27-6-54-1807-87.pdf
+
+## B.	Data Preprocessing
+
+**•	Handling Missing:** Values	Fill in the gaps at the missing data cells by using the mean, median or interpolation method.
+
+**•	Outlier Detection and Removal:** Outliers can be detected and cured by tools such as clipping, which are stronger than ordinary statistical methods.
+
+**•	Normalization or Standardization:** Transform data to a desired scale or standardize to make it more stable for our model.
+
+
+## C.	Data Exploration and Visualization
+
+**•	Univariate Analysis:** Use histograms, box plots, and summary statistics to understand the distribution and variability of sensor variables.
+
+**•	Bivariate Analysis:** Explore relationships between sensor variables with scatter plots and heatmaps.
+
+## D.	Designing the LSTM-Based Predictive Maintenance Model
+
+Describe the architecture of the LSTM-based predictive maintenance model, including input characteristics, hidden layers, and output predictions.
+
+## E.	Training and Evaluation
+
+•	State the process of how the dataset was divided into training, validation, and test subsets to obtain a model accuracy evaluation.
+
+•	Display the training procedure which includes parameter tuning and model selection in addition to parameter regularization.
+
+•	Establish the evaluation criteria, for example accuracy, precision, recall and F1-score to gauge the performance of the model.
+
+
+## F.	Model Optimization
+
+•	To get the most out of our LSTM model, we should use stochastic gradient descent (SGD), ADAM, or RMSprop optimization methods.
+
+•	Incorporate methods that expedite convergence, say, for instance, by changing learning rate or gradient clipping, or batch normalization.
+
+
+
+
 
 
 
