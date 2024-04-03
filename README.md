@@ -209,6 +209,18 @@ Describe the architecture of the LSTM-based predictive maintenance model, includ
 
 •	Incorporate methods that expedite convergence, say, for instance, by changing learning rate or gradient clipping, or batch normalization.
 
+# V.	 IMPLEMENTATION
+
+**Step 1: Data Preprocessing**
+
+In this phase, we found deficient values in the data set. If the absence of values is seen, it is filled with the average of the column. This phase can be considered as the most crucial step since this one is the one in which the dataset is cleaned and prepared for the ongoing research.
+
+**Step 2: Data Exploration and Visualization**
+
+This step is about the core of it all. This part is about the data which we found thorough data exploration and visualization. For univariate analysis, we went with a sensor variable-by-variable approach to provide us with information about their distribution and variability. Through the graphical representation of histograms and box plots, we were able to not only see the range of each variable in our data set but also identify outliers. This revealed patterns and anomalies in our data set which can be useful in analyzing our data. Through this study we have gained a basic understanding of the sensor data features which is the main source of information and leading us to the right decision making in the predictive analysis phase of our project in the future.
+
+Having done the bivariate analysis, that was the most difficult part for us. We had to make out the links between the sensor variables and this was a big challenge to us. Scatter plots were used by us for the purpose of displaying connections and relationships between two variables, which enabled us to track any form of correlation that could exist. What is more, the plot of correlation matrix heatmap is an excellent graphical presentation of all sensor features and the level of their correlation. It gives a full picture of dependencies among the features. We were able to conduct a detailed analysis of the information obtained to extract the critical insights that provided the basis for the establishment of the predictive maintenance algorithms that rightly describe the peculiarities of the industrial systems.
+
 
 
 
