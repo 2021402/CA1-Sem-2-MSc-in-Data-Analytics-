@@ -267,6 +267,20 @@ On the other hand, the model offers tools to evaluate the equipment health and d
 
 In addition, through the model output, the speed of the machinery wear, the production line maintenance needs, and the operational inefficiency can be deduced. These are the kinds of learnings that are applicable and helpful for the strategic planning, the enacting of continuous improvement measures, and the attainment of operational excellence.
 
+# VII. BIG DATA CONSIDERATIONS
+
+## A. Introduction to Big Data Storage and Processing
+
+"Big Data" is a term that is now in use for some years, and it refers to datasets which are so huge and complex that traditional data processing programs are incapable. Big Data is referred to as the data which is enormous in size (volume), quick in speed (velocity), heterogeneous (diversity), and authentic. The truth is that the data is growing at a heart-stopping rate (exponential) from many different sources, for example, social network, IoT devices, sensors, and scientific equipment. Therefore, the available storage and processing capabilities must be improved.
+
+The most important thing to remember is that to get the most value from Big Data, it is necessary that the storage and processing steps are streamlined to extract the meaningful information and make the correct decisions. The big data generation is almost unlimited and, therefore, the modern relational databases which are unable to store the gigantic data that is produced every day. Moreover, the type of distributed file systems and NoSQL databases that are designed to expand horizontally and carry out large data sets over clusters of common hardware is proved to be the way to go.
+
+## B. Handling Large-Scale Sensor Data
+
+The sensor data is high volume data which is the most common type of big data used in industrial IoT, environmental monitoring and smart cities. There will be an array of sensors which will provide a continuous stream of data, many of which will be of a high velocity and volume. A myriad of sensor data necessitates the development of specific data collection, storage, and analysis methods.
+
+The segmentation, replication, and compression of data are the strategies adopted in the best practice of sensor data management. IoT devices provide a large amount of data which can be processed in real time owing to their frameworks such as Apache Spark. Therefore, this data could be used in making decisions and for response to events.
+
 
 
 
