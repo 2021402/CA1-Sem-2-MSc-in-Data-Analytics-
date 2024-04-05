@@ -281,6 +281,16 @@ The sensor data is high volume data which is the most common type of big data us
 
 The segmentation, replication, and compression of data are the strategies adopted in the best practice of sensor data management. IoT devices provide a large amount of data which can be processed in real time owing to their frameworks such as Apache Spark. Therefore, this data could be used in making decisions and for response to events.
 
+# VIII.	CONCLUSION
+
+## A.	Summary of Findings
+
+The research investigated the combination of neural networks with big data infrastructure as related to data analytics and data management. This study, along with the completion of the project, leads to a few crucial implications. The LSTM networks eventually showed to be the best ones in these predictive maintenance tasks. This is because they were prepared on a huge set of sensor data to predict the downtimes of the machines as accurately as possible. Moreover, the improved technology has shown that there is a need to develop functional Big Data storage and processing techniques to store and process large amounts of sensor data in real time for proper decision making.
+
+## B.	Contributions of the Project
+
+In this project, we expect to see several different contributions in the domain of data analytics and Big Data. Firstly, it is a showcase of how to double up the two most advanced technologies, for instance, LSTMs with the Apache Spark distributed computing, for real-world implementation. Besides, the second part of the solution is to take care of the problems related to the big data from sensors which is also important to create scalable and time-efficient data processing pipelines. In summary, project gives an additional depth to the ongoing discussion of the role of Big Data technology in the future of maintenance and the industrial industry.
+
 
 
 
