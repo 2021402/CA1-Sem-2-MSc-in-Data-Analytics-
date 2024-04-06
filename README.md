@@ -291,6 +291,54 @@ The research investigated the combination of neural networks with big data infra
 
 In this project, we expect to see several different contributions in the domain of data analytics and Big Data. Firstly, it is a showcase of how to double up the two most advanced technologies, for instance, LSTMs with the Apache Spark distributed computing, for real-world implementation. Besides, the second part of the solution is to take care of the problems related to the big data from sensors which is also important to create scalable and time-efficient data processing pipelines. In summary, project gives an additional depth to the ongoing discussion of the role of Big Data technology in the future of maintenance and the industrial industry.
 
+## References
+
+[1] M. Achouch et al., “On Predictive Maintenance in Industry 4.0: Overview, Models, and Challenges,” Applied Sciences, vol. 12, no. 16, p. 8081, Aug. 2022, doi: https://doi.org/10.3390/app12168081.
+
+ [2] L. Silvestri, A. Forcina, V. Introna, A. Santolamazza, and V. Cesarotti, “Maintenance transformation through Industry 4.0 technologies: A systematic literature review,” Computers in Industry, vol. 123, p. 103335, Dec. 2020, doi: https://doi.org/10.1016/j.compind.2020.103335.
+ 
+ [3] An Introduction to Predictive Maintenance. Elsevier, 2002.
+ 
+ [4] S. Selcuk, “Predictive maintenance, its implementation and latest trends,” Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, vol. 231, no. 9, pp. 1670–1679, Jan. 2016, doi: https://doi.org/10.1177/0954405415601640.
+ 
+ [5] H. M. Hashemian and W. C. Bean, “State-of-the-Art Predictive Maintenance Techniques*,” IEEE Transactions on Instrumentation and Measurement, vol. 60, no. 10, pp. 3480–3492, Oct. 2011, doi: https://doi.org/10.1109/tim.2009.2036347.
+ 
+ [6] J. J. Montero Jimenez, S. Schwartz, R. Vingerhoeds, B. Grabot, and M. Salaün, “Towards multi-model approaches to predictive maintenance: A systematic literature survey on diagnostics and prognostics,” Journal of Manufacturing Systems, vol. 56, pp. 539–557, Jul. 2020, doi: https://doi.org/10.1016/j.jmsy.2020.07.008.
+ 
+ [7] W. Tiddens, J. Braaksma, and T. Tinga, “Exploring predictive maintenance applications in industry,” Journal of Quality in Maintenance Engineering, vol. ahead-of-print, no. ahead-of-print, Sep. 2020, doi: https://doi.org/10.1108/jqme-05-2020-0029.
+ 
+ [8] P. Ngwa and I. Ngaruye, “Big Data Analytics for Predictive System Maintenance Using Machine Learning Models,” Advances in Data Science and Adaptive Analysis, Nov. 2022, doi: https://doi.org/10.1142/s2424922x23500018.
+ 
+ [9] Y. Ren, “Optimizing Predictive Maintenance with Machine Learning for Reliability Improvement,” ASCE-ASME J Risk and Uncert in Engrg Sys Part B Mech Engrg, vol. 7, no. 3, May 2021, doi: https://doi.org/10.1115/1.4049525.
+ 
+ [10] Y. Yu, X. Si, C. Hu, and J. Zhang, “A Review of Recurrent Neural Networks: LSTM Cells and Network Architectures,” Neural Computation, vol. 31, no. 7, pp. 1235–1270, Jul. 2019, doi: https://doi.org/10.1162/neco_a_01199.
+ 
+ [11] K. Smagulova and A. P. James, “A survey on LSTM memristive neural network architectures and applications,” The European Physical Journal Special Topics, vol. 228, no. 10, pp. 2313–2324, Oct. 2019, doi: https://doi.org/10.1140/epjst/e2019-900046-x.
+ 
+ [12] D. Hopp, “Economic Nowcasting with Long Short-term Memory Artificial Neural Networks (LSTM),” SSRN Electronic Journal, 2021, doi: https://doi.org/10.2139/ssrn.3855402.
+ 
+ [13] R. Sahba, R. Radfar, A. Rajabzadeh Ghatari, and A. Pour Ebrahimi, “Development of Industry 4.0 predictive maintenance architecture for broadcasting chain,” Advanced Engineering Informatics, vol. 49, p. 101324, Aug. 2021, doi: https://doi.org/10.1016/j.aei.2021.101324.
+ 
+ [14] M. Crowder and J. Lawless, “On a scheme for predictive maintenance,” European Journal of Operational Research, vol. 176, no. 3, pp. 1713–1722, Feb. 2007, doi: https://doi.org/10.1016/j.ejor.2005.10.051.
+ 
+ [15] J. Dalzochio et al., “Machine learning and reasoning for predictive maintenance in Industry 4.0: Current status and challenges,” Computers in Industry, vol. 123, p. 103298, Dec. 2020, doi: https://doi.org/10.1016/j.compind.2020.103298.
+ 
+ [16] N. Sakib and T. Wuest, “Challenges and Opportunities of Condition-based Predictive Maintenance: A Review,” Procedia CIRP, vol. 78, pp. 267–272, 2018, doi: https://doi.org/10.1016/j.procir.2018.08.318.
+ 
+ [17] M. Compare, P. Baraldi, and E. Zio, “Challenges to IoT-enabled Predictive Maintenance for Industry 4.0,” IEEE Internet of Things Journal, pp. 1–1, 2019, doi: https://doi.org/10.1109/jiot.2019.2957029.
+ 
+[18] N. Sakib and T. Wuest, “Challenges and Opportunities of Condition-based Predictive Maintenance: A Review,” Procedia CIRP, vol. 78, pp. 267–272, 2018, doi: https://doi.org/10.1016/j.procir.2018.08.318.
+
+[19] A. Theissler, J. Pérez-Velázquez, M. Kettelgerdes, and G. Elger, “Predictive maintenance enabled by machine learning: Use cases and challenges in the automotive industry,” Reliability Engineering & System Safety, vol. 215, p. 107864, 2021, doi: https://doi.org/10.1016/j.ress.2021.107864.
+
+ [20] I. A. Santos et al., “Big Data Analytics for Predictive Maintenance Modeling: Challenges and Opportunities,” Oct. 2015, doi: https://doi.org/10.4043/26275-ms.
+ 
+ [21] C. Nzukam, A. Voisin, E. Levrat, D. Sauter, and B. Iung, “Opportunistic maintenance scheduling with stochastic opportunities duration in a predictive maintenance strategy,” IFAC-PapersOnLine, vol. 51, no. 11, pp. 453–458, 2018, doi: https://doi.org/10.1016/j.ifacol.2018.08.348.
+ 
+ [22] A. Bousdekis, D. Apostolou, and G. Mentzas, “Predictive Maintenance in the 4th Industrial Revolution: Benefits, Business Opportunities, and Managerial Implications,” IEEE Engineering Management Review, vol. 48, no. 1, pp. 57–62, Mar. 2020, doi: https://doi.org/10.1109/emr.2019.2958037.
+ 
+ [23] L. D. Xu, E. L. Xu, and L. Li, “Industry 4.0: state of the art and future trends,” International Journal of Production Research, vol. 56, no. 8, pp. 2941–2962, Mar. 2018.
+
 
 
 
